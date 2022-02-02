@@ -13,12 +13,16 @@ EF SET English Certificate 72/100 (C2 Proficient) by EF Standard English Test (E
 https://www.efset.org/cert/b8kYWD
 
 😎 Experience:
-- HTML and CSS Basics
-- Data Structure Basics
-- Git Basics, Mathematics & Algorithms basics
-- OOP VS Functional Programming, SOLID principles
-- Agile, Scrum and Kanban methodologies proven experience
+- C2 Proficient English proven
+- Agile, Scrum, and Kanban methodologies proven experience
 - Jira and Confluence proven experience
+- Python 3.7 Basics
+- HTML and CSS Basics
+- IDE + Plugins (Visual Studio Code)
+- Git Basics (semver, semantic commit)
+- Data Structure Basics
+- OOP VS Functional Programming, SOLID principles
+- Mathematics & Algorithms Basics
 
 📫 How to reach me: https://t.me/Mianaviatte.  
 
