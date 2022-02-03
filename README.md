@@ -1,4 +1,5 @@
-👋 Hi, I’m @Mianaviatte for the public. 
+👋 Hi, I’m @Mianaviatte for the public.
+
 *Any doc is signed ChL as Christina Lisowska.
 
 😍 Loving mom, wife & geek. Passionate PC and mobile gamer.  
