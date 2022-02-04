@@ -1,6 +1,6 @@
 👋 Hi, I’m @Mianaviatte for the public.
 
-*Any doc is signed ChL as Christina Lisowska.
+Recently I accidentally translated Java code to Python for several times, and it worked! 
 
 😍 Loving mom, wife & geek. Passionate PC and mobile gamer.  
 ❤️ Love skyporn photo shooting, hugs, honesty and tech professionalism.
