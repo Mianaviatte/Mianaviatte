@@ -19,7 +19,7 @@ https://www.efset.org/cert/b8kYWD
 - Agile, Scrum, and Kanban methodologies proven experience
 - Jira and Confluence proven experience
 - Python 3.7 Basics
-- HTML and CSS Basics
+- HTML and CSS Basics, SQL Basics
 - IDE + Plugins (Visual Studio Code)
 - Git Basics (semver, semantic commit)
 - Data Structure Basics
