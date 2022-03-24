@@ -18,7 +18,7 @@ https://www.efset.org/cert/b8kYWD
 - C2 Proficient English proven
 - Agile, Scrum, and Kanban methodologies proven experience
 - Jira and Confluence proven experience
-- Python 3.7 Basics
+- Python 3.7 Basics, Numpy Basics 
 - HTML and CSS Basics, SQL Basics
 - IDE + Plugins (Visual Studio Code)
 - Git Basics (semver, semantic commit)
@@ -32,16 +32,16 @@ https://www.efset.org/cert/b8kYWD
 
 Nice to e-meet you.
 
-I have C2 Proficient English proven and certified; Agile, Scrum, and Kanban methodologies proven experience; Jira and Confluence proven experience; Python 3.7 Basics; HTML and CSS Basics; SQL Basics; PM practice in Jira and Confluence; all that will be useful for you.
+I have C2 Proficient English proven and certified; Agile, Scrum, and Kanban methodologies proven experience; Jira and Confluence proven experience; Python 3.7 Basics, Numpy Basics; HTML and CSS Basics; SQL Basics; PM practice in Jira and Confluence; all that will be useful for you.
 
-For 10 years I had a dream to become a Python Engineer. Now I finally started learning Python, Data Structures, and Algorithms for several months. In my previous jobs as chief editor of corporate blogs about project management (Scrum, Kanban, Agile, pair programming, etc.) I have been working with HTML and CSS to fix issues with content formatting.
+For 10 years I had a dream to become a pythoness as a Data Engineer. Now I finally started learning Python, Numpy, SQL, Data Structures, and Algorithms for several months. In my previous jobs as chief editor of corporate blogs about project management (Scrum, Kanban, Agile, pair programming, etc.) I have been working with HTML and CSS to fix issues with content formatting.
 
 You can check up my new CV Landing Page here: http://mianaviatte.tilda.ws/  
 I made and updated it numerous times, on my own, via Tilda.
 
 Marketing CV is more about Product Marketing and SaaS Business Consulting. The thing is, I wish to move from Business management and Advertising to Software Development (starting) with Python for good.
 
-I have huge experience in SaaS development but on the marketing and business development side. For the last few years, got burnt out of marketing. Now I'm a Junior Python Engineer.
+I have huge experience in SaaS development but on the marketing and business development side. For the last few years, got burnt out of marketing. Now I'm a Trainee or Junior Data Engineer.
 
 <!---
 Mianaviatte/Mianaviatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
