@@ -1,47 +1,25 @@
-👋 Hi, I’m @Mianaviatte for the public.
+👋 Hi, I’m @Mianaviatte for the public.  
+😍 Loving mom, wife & geek. Passionate PC and mobile gamer. Trainee Data Engineer since 2022.  
+❤️ Love skyporn photo shooting, hugs, honesty and tech professionalism.  
 
-Recently I accidentally translated Java code to Python for several times, and it worked! 
+😎 My fit to Data Engineer vacancies:  
 
-😍 Loving mom, wife & geek. Passionate PC and mobile gamer.  
-❤️ Love skyporn photo shooting, hugs, honesty and tech professionalism.
-
-🌱 I’m currently learning Python 3.7 at 
-https://w3schools.com,
-https://geeksforgeeks.org,
-https://hackerrank.com.
-
-♟ Recently certified  
-EF SET English Certificate 72/100 (C2 Proficient) by EF Standard English Test (EF SET)  
-https://www.efset.org/cert/b8kYWD
-
-😎 Experience:
 - C2 Proficient English proven
-- Agile, Scrum, and Kanban methodologies proven experience
 - Jira and Confluence proven experience
-- Python 3.7 Basics, Numpy Basics 
-- HTML and CSS Basics, SQL Basics
+- Agile, Scrum, and Kanban methodologies proven experience
+- OOP VS Functional Programming, SOLID principles
+- Python 3.7 Basics, NumPy Basics 
+- HTML and CSS Basics
+- SQL Basics
 - IDE + Plugins (Visual Studio Code)
 - Git Basics (semver, semantic commit)
 - Data Structure Basics
-- OOP VS Functional Programming, SOLID principles
-- Mathematics & Algorithms Basics
+- Algorithms Basics
+- Mathematics Basics
 
+♟ EF SET English Certificate (C2 Proficient) at https://www.efset.org/cert/b8kYWD  
+🔮 LinkedIn profile at https://www.linkedin.com/in/mianaviatte/  
 📫 How to reach me: https://t.me/Mianaviatte.  
-
-...  
-
-Nice to e-meet you.
-
-I have C2 Proficient English proven and certified; Agile, Scrum, and Kanban methodologies proven experience; Jira and Confluence proven experience; Python 3.7 Basics, Numpy Basics; HTML and CSS Basics; SQL Basics; PM practice in Jira and Confluence; all that will be useful for you.
-
-For 10 years I had a dream to become a pythoness as a Data Engineer. Now I finally started learning Python, Numpy, SQL, Data Structures, and Algorithms for several months. In my previous jobs as chief editor of corporate blogs about project management (Scrum, Kanban, Agile, pair programming, etc.) I have been working with HTML and CSS to fix issues with content formatting.
-
-You can check up my new CV Landing Page here: http://mianaviatte.tilda.ws/  
-I made and updated it numerous times, on my own, via Tilda.
-
-Marketing CV is more about Product Marketing and SaaS Business Consulting. The thing is, I wish to move from Business management and Advertising to Software Development (starting) with Python for good.
-
-I have huge experience in SaaS development but on the marketing and business development side. For the last few years, got burnt out of marketing. Now I'm a Trainee or Junior Data Engineer.
 
 <!---
 Mianaviatte/Mianaviatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
