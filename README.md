@@ -4,20 +4,20 @@
 
 😎 My fit to Data Engineer vacancies:  
 
-• Strong written and verbal English language (C2 Proficient certified)
-• Jira and Confluence experience 3+ years
-• Agile, Scrum, and Kanban methodologies experience 7+ years
-• OOP VS Functional Programming Basics
-• Python 3.7 Basics
-• NumPy Basics
-• HTML and CSS Basics
-• SQL Basics 
-• NoSQL Basics
-• IDE + Plugins (Visual Studio Code, PyCharm)
-• Git Basics (semver, semantic commit)
-• Data Structure Basics
-• Algorithms Basics
-• Mathematics Basics
+• Strong written and verbal English language (C2 Proficient certified)  
+• Jira and Confluence experience 3+ years  
+• Agile, Scrum, and Kanban methodologies experience 7+ years  
+• OOP VS Functional Programming Basics  
+• Python 3.7 Basics  
+• NumPy Basics  
+• HTML and CSS Basics  
+• SQL Basics  
+• NoSQL Basics  
+• IDE + Plugins (Visual Studio Code, PyCharm)  
+• Git Basics (semver, semantic commit)  
+• Data Structure Basics  
+• Algorithms Basics  
+• Mathematics Basics  
 
 ♟ EF SET English Certificate (C2 Proficient) at https://www.efset.org/cert/b8kYWD  
 🔮 LinkedIn profile at https://www.linkedin.com/in/mianaviatte/  
