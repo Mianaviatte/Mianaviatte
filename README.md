@@ -2,19 +2,20 @@
 😍 Loving mom, wife & geek. Passionate PC and mobile gamer. Trainee Data / Backend Engineer since autumn 2021.  
 ❤️ Love skyporn photo shooting, hugs, honesty and tech professionalism.  
 
-😎 My fit to Data Engineer vacancies:  
+I'm a Ukrainian female trainee data driven backend engineer, drilling into software architecture and coding almost every day since autumn 2021. 
 
-• Strong written and verbal English language (C2 Proficient EF SET certified)  
+😎 My fit to Trainee Data Driven Backend Engineer vacancies:  
+
+• Strong written and verbal English language (C2 Proficient certified)  
 • Jira and Confluence experience 3+ years  
 • Agile, Scrum, and Kanban methodologies experience 7+ years  
 • OOP VS Functional Programming Basics  
-• Python 3.7 Basics  
-• NumPy Basics  
+• Python 3.7 (NumPy, Pandas, Matplotlib, Seaborn) Basics  
 • HTML and CSS Basics  
-• SQL Basics via PostgreSQL  
-• NoSQL Basics via MongoBD  
-• IDE + Plugins (Visual Studio Code, PyCharm)  
-• Git Basics (semver, semantic commit)  
+• PostgreSQL for SQL Basics  
+• MongoDB for NoSQL Basics  
+• IDE + Plugins (Visual Studio Code, PyCharm) Basics  
+• Git (semver, semantic commit) Basics  
 • Data Structure Basics  
 • Algorithms Basics  
 • Mathematics Basics  
