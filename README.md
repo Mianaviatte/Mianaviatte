@@ -1,5 +1,5 @@
 👋 Hi, I’m @Mianaviatte for the public.  
-😍 Loving mom, wife & geek. Passionate PC and mobile gamer. Trainee Data Engineer since 2022.  
+😍 Loving mom, wife & geek. Passionate PC and mobile gamer. Trainee Data / Backend Engineer since autumn 2021.  
 ❤️ Love skyporn photo shooting, hugs, honesty and tech professionalism.  
 
 😎 My fit to Data Engineer vacancies:  
