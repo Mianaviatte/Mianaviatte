@@ -17,10 +17,10 @@ I'm a Ukrainian female junior backend engineer, drilling into software architect
 • HTML5 and CSS3 Basics  
 • Bootstrap v5 Basics  
 • PostgreSQL 10 for SQL Basics  
-• MongoDB 5 for NoSQL Basics  
+• MongoDB Atlas for NoSQL Basics  
 • IDE + Plugins, linters (Visual Studio Code) Basics  
 • Git (semver, semantic commit) Basics  
-• Linux (Ubuntu) Basics
+• Linux (Ubuntu) Basics  
 • Data Structure Basics  
 • Algorithms Basics  
 • Mathematics Basics  
