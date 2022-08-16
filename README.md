@@ -1,9 +1,9 @@
 👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public.  
-🇺🇦 Loving mom, wife & geek
-😍 Passionate PC & mobile gamer
-😎 Pythoness-in-tech with Ruby lips
-❤️ Love skyporn photo, hugs, and professionalism
-🙏 INFJ-T
+🇺🇦 Loving mom, wife & geek  
+😍 Passionate PC & mobile gamer  
+😎 Pythoness-in-tech with Ruby lips  
+❤️ Love skyporn photo, hugs, and professionalism  
+🙏 INFJ-T  
 
 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every day. 
 
