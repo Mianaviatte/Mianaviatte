@@ -1,9 +1,11 @@
 👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public.  
-😎 Pythoness-in-tech with Ruby lips.  
-😍 Loving mom, wife & geek. Passionate PC and mobile gamer.  
-❤️ Love skyporn photo shooting, hugs, honesty and tech professionalism.  
+🇺🇦 Loving mom, wife & geek
+😍 Passionate PC & mobile gamer
+😎 Pythoness-in-tech with Ruby lips
+❤️ Love skyporn photo, hugs, and professionalism
+🙏 INFJ-T
 
-I'm a Ukrainian female junior backend engineer, drilling into software architecture and coding almost every day since early fall 2021. 
+I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every day. 
 
 ## 🛠 My fit to any developer job:  
 
@@ -16,11 +18,11 @@ I'm a Ukrainian female junior backend engineer, drilling into software architect
 • Ruby on Rails 7.0.3 Basics  
 • HTML5 and CSS3 Basics  
 • Bootstrap v5 Basics  
-• PostgreSQL 10 for SQL Basics  
+• PostgreSQL 14 for SQL Basics  
 • MongoDB Atlas for NoSQL Basics  
 • IDE + Plugins, linters (Visual Studio Code) Basics  
 • Git (semver, semantic commit) Basics  
-• Linux (Ubuntu) Basics  
+• Linux (Ubuntu 22.04) Basics  
 • Data Structure Basics  
 • Algorithms Basics  
 • Mathematics Basics  
