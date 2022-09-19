@@ -9,7 +9,7 @@
 By 2022 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every day. 
 Wish to become experienced and valuable Pythoness-in-tech with Ruby lips.
 
-## 🛠 My fit to any developer job:  
+## 🛠 My fit as a software developer:  
 
 • Strong written and verbal English language (C2 Proficient certified) 10+ years  
 • Jira and Confluence experience 3+ years  
