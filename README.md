@@ -18,7 +18,7 @@ Wish to become experienced and valuable Pythoness-in-tech with Ruby lips.
 • Python 3.7  
 • Ruby 3.1  
 • Ruby on Rails 7.0.3  
-• Devise, Rspec & other gems  
+• Devise, RSpec & other gems  
 • HTML5 and CSS3  
 • Bootstrap v5  
 • PostgreSQL 10/14 for SQL  
