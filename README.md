@@ -11,7 +11,7 @@ Wish to become experienced and valuable Pythoness-in-tech with Ruby lips.
 
 ## 🛠 My fit as a software developer:  
 
-• Strong written and verbal English language (C2 Proficient certified) 10+ years  
+• Strong written and verbal English language ([C2 Proficient certified](https://www.efset.org/cert/b8kYWD)) 10+ years  
 • Jira and Confluence experience 3+ years  
 • Agile, Scrum, and Kanban methodologies experience 7+ years  
 • OOP VS Functional Programming  
