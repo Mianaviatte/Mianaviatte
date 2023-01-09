@@ -20,7 +20,7 @@ Wish to become experienced and valuable Pythoness-in-tech with Ruby lips.
 • Ruby on Rails 7.0.3  
 • Devise, RSpec & other gems  
 • HTML5 and CSS3  
-• Bootstrap v5  
+• Bootstrap v5, JS ES6  
 • PostgreSQL 10/14 for SQL  
 • MongoDB Atlas for NoSQL  
 • IDE + Plugins + linters (Visual Studio Code)  
