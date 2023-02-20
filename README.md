@@ -6,8 +6,8 @@
 ❤️ Love skyporn photo, hugs, and professionalism  
 🙏 INFJ-T  
 
-By 2022 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every day. 
-Wish to become experienced and valuable Pythoness-in-tech with Ruby lips.
+By 2022 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every week. 
+Wish to become experienced and valuable asset.
 
 ## 🛠 My fit as a software developer:  
 
@@ -20,15 +20,14 @@ Wish to become experienced and valuable Pythoness-in-tech with Ruby lips.
 • Ruby on Rails 7.0.3  
 • Devise, RSpec & other gems  
 • HTML5 and CSS3  
-• Bootstrap v5, JS ES6  
+• JS ES6, Bootstrap v5  
 • PostgreSQL 10/14 for SQL  
 • MongoDB Atlas for NoSQL  
-• IDE + Plugins + linters (Visual Studio Code)  
-• Git (semver, semantic commit, pull request, branches, git flow)  
-• Linux (Ubuntu 22.04)  
-• Algorithms Basics  
-• Mathematics Basics  
+• IDE + Plugins + linters ( Visual Studio Code, Rubymine )  
+• Git ( semver, semantic commit, pull request, branches, git flow )  
 • Data Structure Basics  
+• Mathematics Basics  
+• Algorithms Basics  
   
 ### 📫 Reach me via [Telegram](https://t.me/Mianaviatte)  
 🔮 [LinkedIn profile](https://www.linkedin.com/in/mianaviatte/)  
