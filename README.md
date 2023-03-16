@@ -7,7 +7,7 @@
 🙏 INFJ-T  
 
 🇺🇦 By 2023 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every week. 
-Wish to become experienced and valuable asset.
+Wish to become an experienced and valuable asset.
 
 ## 🛠 My fit as a software developer:  
 
@@ -30,9 +30,8 @@ Wish to become experienced and valuable asset.
 • Algorithms Basics  
   
 ### 📫 Reach me via [Telegram](https://t.me/Mianaviatte)  
-🔮 [LinkedIn profile](https://www.linkedin.com/in/mianaviatte/)  
-🌕 [Codewar profile](https://www.codewars.com/users/Mianaviatte)  
-☀️ [Hackerrank profile](https://www.hackerrank.com/mianaviatte)  
+🌕 [Codewar](https://www.codewars.com/users/Mianaviatte)  
+☀️ [Hackerrank](https://www.hackerrank.com/mianaviatte)  
 
 <!---
 Mianaviatte/Mianaviatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
