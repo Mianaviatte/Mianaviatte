@@ -6,7 +6,7 @@
 ❤️ Love skyporn photo, hugs, and professionalism  
 🙏 INFJ-T  
 
-🇺🇦 By 2023 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture and coding almost every week. 
+🇺🇦 By 2023 I'm a Ukrainian female backend / fullstack engineer, drilling into software architecture, refactoring, databases & clean coding. 
 Wish to become an experienced and valuable asset.
 
 ## 🛠 My fit as a software developer:  
