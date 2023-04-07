@@ -1,13 +1,13 @@
-👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public.  
+👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
 
-💻 Loving mom, wife & geek  
-😍 Passionate PC & mobile gamer  
-😎 Pythoness-in-tech with Ruby lips  
+😍 Loving mom, wife & geek  
+😎 Passionate PC & mobile gamer  
+💻 Pythoness in tech with Ruby lips on Rails of sanity  
 ❤️ Love skyporn photo, hugs, and professionalism  
 🙏 INFJ-T  
 
 🇺🇦 By 2023 I'm a Ukrainian female RoR engineer, drilling into software architecture, refactoring, databases & clean coding. 
-Wish to become an experienced and valuable asset.
+Wish to become an experienced and valuable asset  
 
 ## 🛠 My fit as a software developer:  
 
