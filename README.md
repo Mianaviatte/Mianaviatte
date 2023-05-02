@@ -6,33 +6,41 @@
 ❤️ Love skyporn photo, hugs, and professionalism  
 🙏 INFJ-T  
 
-🇺🇦 By 2023 I'm a Ukrainian female RoR engineer, drilling into software architecture, refactoring, databases & clean coding. 
-Wish to become an experienced and valuable asset  
-
-## 🛠 My fit as a software developer:  
+# 🛠 My fit as a developer for your team:  
 
 • Strong written and verbal English language ([C2 Proficient certified](https://www.efset.org/cert/VWBiQP)) 10+ years  
-• Jira and Confluence experience 3+ years  
+• Figma and Canva experience 2+ years  
+• Asana, Jira and Confluence experience 4+ years  
 • Agile, Scrum, and Kanban methodologies experience 7+ years  
-• OOP VS Functional Programming  
-• Python 3.7  
-• Ruby 3.1  
-• Ruby on Rails 7.0.3  
-• Devise, RSpec & other gems  
+  
 • HTML5 and CSS3  
-• JS ES6, Bootstrap v5  
+• JS ES6  
+• Bootstrap v5 */in progress*  
+• Python 3.7  
+  
 • PostgreSQL 10/14 for SQL  
-• MongoDB Atlas for NoSQL  
-• IDE + Plugins + linters ( Visual Studio Code, Rubymine )  
-• Git ( semver, semantic commit, pull request, branches, git flow )  
+• MongoDB Atlas for NoSQL */in progress*  
+  
+• Ruby 3.1    
+• Ruby on Rails 7.0.3 ([Ruby web app development Scholarship](https://courses.prometheus.org.ua:18090/downloads/f9e2ab53332444ab8c973350029e5ccf/Certificate.pdf))  
+• Devise, RSpec & other gems  
+  
+• Visual Studio Code  
+• Rubymine */in progress*  
+• Google Cloud */in progress*  
+• Git flow  
+  
+• OOP VS Functional Programming    
 • Data Structure Basics  
 • Mathematics Basics  
 • Algorithms Basics  
   
-### 📫 Reach me via [Telegram](https://t.me/Mianaviatte)  
-🌕 [Codewar](https://www.codewars.com/users/Mianaviatte)  
-☀️ [Hackerrank](https://www.hackerrank.com/mianaviatte)  
-
+[Here is my CV for your convenience](https://storage.googleapis.com/otta-uploads/candidate-cv/x_IPDYs2N5KizaV2zKlnd8XgM_LY4aNXk_J8jljw_m4.pdf)  
+  
+  
+## 📫 Reach me via [Telegram](https://t.me/Mianaviatte)  
+![](https://www.codewars.com/users/Mianaviatte/badges/small)  
+  
 <!---
 Mianaviatte/Mianaviatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
