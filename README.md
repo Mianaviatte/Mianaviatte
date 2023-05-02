@@ -14,7 +14,7 @@
 • Agile, Scrum, and Kanban methodologies experience 7+ years  
   
 • HTML5 and CSS3  
-• JS ES6  
+• JS ES6 */in progress*  
 • Bootstrap v5 */in progress*  
 • Python 3.7  
   
