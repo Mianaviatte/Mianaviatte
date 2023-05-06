@@ -13,15 +13,15 @@
 # 🛠 My fit as a developer for your team:  
 
 • Strong written and verbal English language ([C2 Proficient certified](https://www.efset.org/cert/VWBiQP)) 10+ years  
-• Figma and Canva experience 2+ years  
-• Slack and Discord experience 3+ years
-• Asana, Jira and Confluence experience 4+ years  
 • Agile, Scrum, and Kanban methodologies experience 7+ years  
+• Asana, Jira and Confluence experience 4+ years  
+• Slack and Discord experience 3+ years  
+• Figma experience 2+ years  
   
 [![My Skills](https://skillicons.dev/icons?i=figma,discord,powershell,py)](https://skillicons.dev)   
   
 • HTML5 and CSS3  
-• JS ES6 */in progress*  
+• JavaScript ES6 */in progress*  
 • Bootstrap v5 */in progress*  
 • Python 3.7  
   
