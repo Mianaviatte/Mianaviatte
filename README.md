@@ -5,6 +5,12 @@
 💻 Pythoness in tech with Ruby lips on Rails of sanity  
 ❤️ Love skyporn photo, hugs, and professionalism  
 🙏 INFJ-T  
+  
+  
+<!-- real time moon -->
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)  
+
+  
 
 # 🛠 My fit as a developer for your team:  
 
