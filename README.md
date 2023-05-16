@@ -42,11 +42,11 @@
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>  
-<br />
-<br />
+<br />  
 
+#
   
-<details>
+<details>  
  <summary><h3>My fit as a software developer for your team</h3></summary>  
   
 • Strong written and verbal English language ([C2 Proficient certified](https://www.efset.org/cert/VWBiQP))  
