@@ -84,7 +84,7 @@
 <details>  
  <summary><h3>My CV for your convenience or reach out via telegram</h3></summary>  
   
-[See the CV](https://storage.googleapis.com/otta-uploads/candidate-cv/1HudoHD1XMfwCvDUsmr7plkshHJj9lWoUiSoYnzlUVg.pdf)  
+[See the CV](https://mianaviatte-cv.netlify.app/)  
   
 [Chat via telegram](https://t.me/Mianaviatte/)  
   
