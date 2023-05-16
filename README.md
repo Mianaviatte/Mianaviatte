@@ -16,8 +16,8 @@
   
 <h2>Languages and Tools</h2>
   
-<img align="left" alt="Elixir" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
-<img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg"/>
+<!-- <img align="left" alt="Elixir" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/> -->
+<!-- <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg"/> -->
 <!-- <img align="left" alt="Phoenix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg"/> -->
 
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>          
@@ -63,6 +63,7 @@
 • Devise, RSpec & other gems  
 <!-- • Elixir 1.9.1   -->
 <!-- • Erlang / OTP 22   -->
+<!-- • Phoenix 1.7.2   -->
   
 • PostgreSQL 10/14 for SQL  
 <!-- • MongoDB Atlas for NoSQL    -->
