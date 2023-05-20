@@ -8,6 +8,7 @@
   
   
 <br />
+
   
 <!-- real time moon -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)  
@@ -42,9 +43,12 @@
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>  
+  
+  
+<br />  
+<br />  
 <br />  
 
-#
   
 <details>  
  <summary><h3>My fit as a software developer for your team</h3></summary>  
