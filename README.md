@@ -12,12 +12,17 @@
 <br />
 
  <a href="https://t.me/Mianaviatte/">
-  <img src="https://img.shields.io/static/v1?label=Chat via&message=Mianaviatte&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
+  <img src="https://img.shields.io/static/v1?label=Chat via Telegram&message=Mianaviatte&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
  </a>  
   
  <a href="https://www.linkedin.com/in/mianaviatte/">
   <img src ="https://img.shields.io/badge/-Christina_Lisowska-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianaviatte/" alt="Linkedin badge"/>
  </a>
+
+ <a href="https://exercism.org/profiles/Mianaviatte">
+  <img src ="https://img.shields.io/badge/-Exercism_Elixir, Ruby_&_JS-purple?style=plastic&logo=exercism&logoColor=white&link=https://exercism.org/profiles/Mianaviatte" alt="Linkedin badge"/>
+ </a>
+
   
     
   👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
@@ -67,7 +72,7 @@
 * Ruby 3.1    
   * Ruby on Rails 7.0.3    
   * Devise, RSpec & other gems  
-<!-- * Elixir 1.9.1   -->
+* Elixir 1.9.1 
 <!-- * Erlang / OTP 22   -->
 <!-- * Phoenix 1.7.2   -->
 * PostgreSQL 10/14 for SQL  
@@ -78,7 +83,10 @@
   * GitHub  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)&nbsp;  
   * GitHub Action   [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)&nbsp;  
 * OOP, YAGNI, KISS, DRY, SOLID  
-<!-- * Functional Programming   -->
+* Functional Programming
+<br />
+
+  
 * Agile, Scrum, Scrumban, Kanban methodologies  
 * Asana, Trello [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)
   &nbsp;& Slack  
