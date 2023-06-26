@@ -43,71 +43,35 @@
 <h2><img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="35"> Web development using tech and languages:</h2>
 
 * C2 Proficient (certified) written and verbal English language
-* Agile, Scrum, and Kanban methodologies  
-* Asana, Slack, Jira and Confluence experience  
-* Figma
-<br />
-  
 * HTML5 and CSS3  
 * JavaScript ES6  
-* Python 3.7
-<br />
-  
+* Python 3.7 
 * Ruby 3.1    
 * Ruby on Rails 7.0.3    
 * Devise, RSpec & other gems  
 <!-- * Elixir 1.9.1   -->
 <!-- * Erlang / OTP 22   -->
 <!-- * Phoenix 1.7.2   -->
-<br />
-  
 * PostgreSQL 10/14 for SQL  
 <!-- * MongoDB Atlas for NoSQL    -->
 <br />
-  
-* Visual Studio Code  
-* PowerShell  
-* Git flow
-<br />
-  
+
+* Visual Studio Code  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)&nbsp;
+* Git flow  [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp;
+  * Gitlab  [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com)&nbsp;
+  * GitHub  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)&nbsp;  
+  * GitHub Action   [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)&nbsp;  
 * OOP, YAGNI, KISS, DRY, SOLID  
 <!-- * Functional Programming   -->
 <br />
-  
-* Data Structure Basics  
-* Mathematics Basics  
-* Algorithms Basics
+
+* Agile, Scrum, and Kanban methodologies  
+* Asana, Trello [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)
+  &nbsp;, Slack  
+* Jira [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira)](https://www.atlassian.com/software/jira)
+  &nbsp; and Confluence   
+* Figma 
 <br />
-  
-  
-<!-- <img align="left" alt="Elixir" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/> -->
-<!-- <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg"/> -->
-<!-- <img align="left" alt="Phoenix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg"/> -->
-
-<!--
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>          
-<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
-<img align="left" alt="Rspec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/>
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-
-<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> 
-
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-<img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
-<img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>  
--->
   
     
 <details>  
@@ -115,14 +79,26 @@
   
 [Deployed curriculum vitae (CV) for your convenience](https://mianaviatte-cv.netlify.app/)  
   
-[English C2 Proficient level certificate](https://www.efset.org/cert/VWBiQP)  
   
-[Ruby web app development Scholarship](https://courses.prometheus.org.ua:18090/downloads/f9e2ab53332444ab8c973350029e5ccf/Certificate.pdf)  
+ <a href="https://www.efset.org/cert/VWBiQP">
+  <img src="https://img.shields.io/static/v1?label=C2 Proficient&message=English&labelColor=f54251&color=333940" alt="English badge">
+ </a>  
+
+ <a href="https://courses.prometheus.org.ua:18090/downloads/f9e2ab53332444ab8c973350029e5ccf/Certificate.pdf">
+  <img src="https://img.shields.io/static/v1?label=Ruby web app development&message=Scholarship&labelColor=f54251&color=333940" alt="Scholarship badge">
+ </a>  
+
+<br />
+
+ <a href="https://t.me/Mianaviatte/">
+  <img src="https://img.shields.io/static/v1?label=Chat via&message=Mianaviatte&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
+ </a>  
   
-[Chat via telegram](https://t.me/Mianaviatte/)  
+ <a href="https://www.linkedin.com/in/mianaviatte/">
+  <img src ="https://img.shields.io/badge/-Christina_Lisowska-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianaviatte/" alt="Linkedin badge"/>
+ </a>
   
 </details>  
-  
   
   
 <!---
