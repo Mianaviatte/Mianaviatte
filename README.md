@@ -1,18 +1,30 @@
-👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
+<div align="center">
+  <h1 style="width:100%;height:10%;text-align:center;position:relative;top:40%;">Elixir | Ruby Software Engineer Christina Lisowska</h1>
   
-😍 Loving mom, wife & geek  
-😎 Passionate PC & mobile gamer  
-💻 Pythoness in tech with Ruby lips on Rails of sanity  
-❤️ Love skyporn photo, hugs, and professionalism  
-🙏 INFJ-T  
-  
+  👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
+     
+  😍 Loving mom, wife & geek  
+  😎 Passionate PC & mobile gamer  
+  💻 Pythoness in tech with Ruby lips on Rails of sanity brewing Elixir to summon Phoenix  
+  ❤️ Love skyporn photo, hugs, and professionalism  
+  🙏 INFJ-T  
+
+<!-- real time moon -->
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)  
+ 
+ </div>
   
 <br />
 
-  
-<!-- real time moon -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)  
-  
+<!--- GitHub stats -->
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats</h2>
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&include_all_commits=true&count_private=true&hide=JavaScript&show_icons=true&line_height=20&theme=dark&hide_border=false"  alt="Mianaviatte statistics"/>
+<img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mianaviatte&show_icons=true&locale=en&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript" alt="Mianaviatte statistics"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte statistics"/> 
+
+![Codewars](https://www.codewars.com/users/Mianaviatte/badges/large)  
+
 ---  
   
 <h2>Languages and Tools</h2>
@@ -95,14 +107,6 @@
   
 </details>  
   
-<br />  
-  
-  
-<h2>Stats</h2>  
-  
-  [![Mianaviatte's GitHub stats](https://github-readme-stats.vercel.app/api?username=mianaviatte&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-  
-  ![Codewars](https://www.codewars.com/users/Mianaviatte/badges/large)  
   
   
 <!---
