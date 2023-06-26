@@ -19,11 +19,23 @@
 <!--- GitHub stats -->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats</h2>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&include_all_commits=true&count_private=true&hide=JavaScript&show_icons=true&line_height=20&theme=dark&hide_border=false"  alt="Mianaviatte statistics"/>
-<img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mianaviatte&show_icons=true&locale=en&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript" alt="Mianaviatte statistics"/>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte statistics"/> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&theme=dark&hide_border=false&line_height=20"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
+</picture>
 
-![Codewars](https://www.codewars.com/users/Mianaviatte/badges/large)  
+<img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mianaviatte&show_icons=true&locale=en&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true" alt="Mianaviatte languages statistics"/>
+
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/> 
+
+![Mianaviatte Codewars](https://www.codewars.com/users/Mianaviatte/badges/large)  
 
 ---  
   
