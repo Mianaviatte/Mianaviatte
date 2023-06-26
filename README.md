@@ -37,14 +37,54 @@
 
 ![Mianaviatte Codewars](https://www.codewars.com/users/Mianaviatte/badges/large)  
 
----  
+
+
+<!--- Languauges -->
+<h2><img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="35"> Web development using tech and languages:</h2>
+
+* C2 Proficient (certified) written and verbal English language
+* Agile, Scrum, and Kanban methodologies  
+* Asana, Slack, Jira and Confluence experience  
+* Figma
+<br />
   
-<h2>Languages and Tools</h2>
+* HTML5 and CSS3  
+* JavaScript ES6  
+* Python 3.7
+<br />
+  
+* Ruby 3.1    
+* Ruby on Rails 7.0.3    
+* Devise, RSpec & other gems  
+<!-- * Elixir 1.9.1   -->
+<!-- * Erlang / OTP 22   -->
+<!-- * Phoenix 1.7.2   -->
+<br />
+  
+* PostgreSQL 10/14 for SQL  
+<!-- * MongoDB Atlas for NoSQL    -->
+<br />
+  
+* Visual Studio Code  
+* PowerShell  
+* Git flow
+<br />
+  
+* OOP, YAGNI, KISS, DRY, SOLID  
+<!-- * Functional Programming   -->
+<br />
+  
+* Data Structure Basics  
+* Mathematics Basics  
+* Algorithms Basics
+<br />
+  
   
 <!-- <img align="left" alt="Elixir" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/> -->
 <!-- <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original-wordmark.svg"/> -->
 <!-- <img align="left" alt="Phoenix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg"/> -->
 
+<!--
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>          
 <img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
 <img align="left" alt="Rspec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/>
@@ -55,7 +95,7 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-<!-- <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> -->
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> 
 
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
@@ -67,53 +107,17 @@
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>  
-  
-  
-<br />  
-<br />  
-<br />  
-
-  
-<details>  
- <summary><h3>My fit as a software developer for your team</h3></summary>  
-  
-• Strong written and verbal English language ([C2 Proficient certified](https://www.efset.org/cert/VWBiQP))  
-• Agile, Scrum, and Kanban methodologies  
-• Asana, Slack, Jira and Confluence experience  
-• Figma  
-  
-• HTML5 and CSS3  
-• JavaScript ES6  
-• Python 3.7  
-  
-• Ruby 3.1    
-• Ruby on Rails 7.0.3 ([Ruby web app development Scholarship](https://courses.prometheus.org.ua:18090/downloads/f9e2ab53332444ab8c973350029e5ccf/Certificate.pdf))  
-• Devise, RSpec & other gems  
-<!-- • Elixir 1.9.1   -->
-<!-- • Erlang / OTP 22   -->
-<!-- • Phoenix 1.7.2   -->
-  
-• PostgreSQL 10/14 for SQL  
-<!-- • MongoDB Atlas for NoSQL    -->
-  
-• Visual Studio Code  
-• PowerShell  
-• Git flow  
-  
-• OOP, YAGNI, KISS, DRY, SOLID  
-<!-- • Functional Programming   -->
-  
-• Data Structure Basics  
-• Mathematics Basics  
-• Algorithms Basics  
-  
-</details>
+-->
   
     
 <details>  
- <summary><h3>My CV for your convenience or reach out via telegram</h3></summary>  
+ <summary><h2>Contacts and centificates</h2></summary>  
   
-[See the CV](https://mianaviatte-cv.netlify.app/)  
+[Deployed curriculum vitae (CV) for your convenience](https://mianaviatte-cv.netlify.app/)  
+  
+[English C2 Proficient level certificate](https://www.efset.org/cert/VWBiQP)  
+  
+[Ruby web app development Scholarship](https://courses.prometheus.org.ua:18090/downloads/f9e2ab53332444ab8c973350029e5ccf/Certificate.pdf)  
   
 [Chat via telegram](https://t.me/Mianaviatte/)  
   
