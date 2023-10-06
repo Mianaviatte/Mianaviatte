@@ -37,7 +37,8 @@
      
   🩸 **Fallen in love with Elixir**  
   soon after completing  
-the Ruby on Rails Web App Development  
+the Ruby on Rails  
+Web App Development  
 Scholarship with honors  
     
   ☕️ Female software engineer with  
@@ -46,7 +47,7 @@ Scholarship with honors
   😍 Loving mom, wife & geek  
   😎 Passionate PC & mobile gamer  
   ❤️ Loving skyporn photo, hugs,  
-  and professionalism  
+  & professionalism  
 
   <br />  
 
