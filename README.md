@@ -32,6 +32,8 @@
   <img src ="https://img.shields.io/badge/-Dev.to-purple?style=plastic&logo=dev.to&logoColor=white&link=https://dev.to/mianaviatte" alt="Dev.to badge"/>
  </a>
 
+<br />  
+  
         
   👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
 
@@ -40,14 +42,14 @@
      
   🩸 **Fallen in love with Elixir**  
   soon after completing  
-  💎 the Ruby on Rails  
+  💎 Ruby on Rails  
   Web App Development  
   Scholarship with honors  
     
   😍 Loving mom, wife & geek  
   😎 Passionate PC & mobile gamer  
   ❤️ Loving skyporn photo, hugs,  
-  & professionalism  
+  professionalism  
 
   <br />  
 
