@@ -37,9 +37,9 @@
      
   🩸 **Fallen in love with Elixir**  
   soon after completing  
-the Ruby on Rails  
-Web App Development  
-Scholarship with honors  
+  💎 the Ruby on Rails  
+  Web App Development  
+  Scholarship with honors  
     
   ☕️ Female software engineer with  
   **C2 Proficient English** level  
