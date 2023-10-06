@@ -36,8 +36,8 @@
   👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
      
   🩸 **Fallen in love with Elixir**  
-  after graduating from  
-  RoR Web App Dev Scholarship  
+  after completing the RoR Web App Development  
+Scholarship with honors  
     
   ☕️ Female software engineer with  
   **C2 Proficient English** level  
