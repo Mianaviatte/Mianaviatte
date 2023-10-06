@@ -36,7 +36,7 @@
   👋 Hi, I’m [@Mianaviatte](https://www.instagram.com/mianaviatte/) for the public  
      
   🩸 **Fallen in love with Elixir**  
-  soon after completing. 
+  soon after completing  
 the Ruby on Rails Web App Development  
 Scholarship with honors  
     
