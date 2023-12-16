@@ -38,7 +38,7 @@
   Web App Development  
   Scholarship with honors  
     
-  😍 Loving mom, wife & geek  
+  😍 Loving mom, aspie & geek  
   😎 Passionate PC & mobile gamer  
   ❤️ Loving skyporn photo, hugs,  
   professionalism  
