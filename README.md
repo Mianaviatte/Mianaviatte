@@ -76,10 +76,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
+    <img width="570" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
   </picture>
   
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
+  <img width="570" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
 
 
 
