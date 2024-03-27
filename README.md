@@ -50,22 +50,13 @@
  
  </div>
 
-      
-<details>  
- <summary><h2>I'm a Ukrainian female software developer</h2></summary>  
-
-  💻 Pythoness in tech with Ruby lips on Rails of sanity brewing Elixir to summon Phoenix  
-  🙏 Becoming an experienced and valuable asset in **remote** tech field after 10+ years in business fields  
-  💎 Drilling into architecture, refactoring, databases & clean coding  
-  
-</details>  
-
 <br />  
-  
+
+  <div align="center">
 <!--- GitHub stats -->
 <h2>Github & Daily.Dev Stats</h2>
 
-<a href="https://app.daily.dev/mianaviatte"><img src="./devcard.png" width="600" alt="Mianaviatte's Dev Card"/></a>
+<a href="https://app.daily.dev/mianaviatte"><img src="./devcard.png" width="520" alt="Mianaviatte's Dev Card"/></a>
 
   <picture>
     <source
@@ -76,11 +67,22 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="570" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
   </picture>
   
-  <img width="570" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
 
+</div>
 
+<br />
+
+<details>  
+ <summary><h2>I'm a Ukrainian female software developer</h2></summary>  
+
+  💻 Pythoness in tech with Ruby lips on Rails of sanity brewing Elixir to summon Phoenix  
+  🙏 Becoming an experienced and valuable asset in **remote** tech field after 10+ years in business fields  
+  💎 Drilling into architecture, refactoring, databases & clean coding  
+  
+</details>  
 
  <!-- <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mianaviatte&show_icons=true&locale=en&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true" alt="Mianaviatte languages statistics"/> -->
