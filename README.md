@@ -63,7 +63,9 @@
 <br />  
   
 <!--- GitHub stats -->
-<h2>Github Stats</h2>
+<h2>Github & Daily.Dev Stats</h2>
+
+<a href="https://app.daily.dev/mianaviatte"><img src="./devcard.png" width="356" alt="Mianaviatte's Dev Card"/></a>
 
   <picture>
     <source
@@ -78,5 +80,7 @@
   </picture>
   
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
+
+
 
  <!-- <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mianaviatte&show_icons=true&locale=en&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true" alt="Mianaviatte languages statistics"/> -->
