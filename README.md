@@ -65,7 +65,7 @@
 <!--- GitHub stats -->
 <h2>Github & Daily.Dev Stats</h2>
 
-<a href="https://app.daily.dev/mianaviatte"><img src="./devcard.png" width="356" alt="Mianaviatte's Dev Card"/></a>
+<a href="https://app.daily.dev/mianaviatte"><img src="./devcard.png" width="600" alt="Mianaviatte's Dev Card"/></a>
 
   <picture>
     <source
@@ -76,10 +76,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Mianaviatte&show_icons=true&hide_border=false&line_height=20" alt="Mianaviatte common statistics"/>
   </picture>
   
-  <img width="652" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=Mianaviatte&theme=dark&hide_border=false"  alt="Mianaviatte streak statistics"/>  
 
 
 
